@@ -1,0 +1,20 @@
+
+======================== //******* MisMatched Objects Are *********** \ ==========================
+
+
+
+******************* Entries only in Left Json******************
+address: null
+company: Acme
+
+******************* Entries only in Right Json******************
+groups: [close-friends, gym]
+favorite: true
+
+******************* Entries Missing ******************
+birthday: (1980-01-01, 1990-01-01)
+name: ({first=John, last=Doe}, {first=Jane, last=Doe, nickname=Jenny})
+phones: ([{number=000000000, type=home}, {number=999999999, type=mobile}], [{number=111111111, type=mobile}])
+
+******************* Entries InCommon ******************
+occupation: Software engineer
