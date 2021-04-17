@@ -2,9 +2,9 @@ Json-Comparator is a java code to compare 2 json Files.The purpose of this compa
 
 there are 3 files present in the code
 
-leftJson.Json (First File to compare)
-rightJson.Json (second File to compare)
-Json_Comparision_Output. (This file will give the detail report of the comparision between 2 json files. The result of the comparision is written in this file)
+1. leftJson.Json (First File to compare)
+2. rightJson.Json (second File to compare)
+3. Json_Comparision_Output. (This file will give the detail report of the comparision between 2 json files. The result of the comparision is written in this file)
 
 Note - 
  1. Before running the code please change the file paths as per your computer location.
